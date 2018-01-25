@@ -1,3 +1,7 @@
+body {
+  background-color: #fff;
+}
+
 h1, h3, h5, p, ul, ol {
   font-family: 'Indie Flower', cursive;
 }
